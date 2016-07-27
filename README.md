@@ -30,14 +30,6 @@ Hint:
 
 Feature:
 -----
-I design a connection infrustructure with the following features:
 
--Reducing the resources usage of connection maintenance.
-
--Decoupling the responsibility of data received and data handled.
-
--Easy to extend data protocols and data handler.
-
--Reducing the responsibility of middleman between UI and data model.
 
 	
